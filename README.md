@@ -2,15 +2,21 @@
 
 😲**Through this site, you can have a dream trip to the Egyptian Pyramids.**
 
-![1](https://user-images.githubusercontent.com/126666369/224512038-8cbfc5d4-b3db-49de-bdc9-27504bbae833.jpg)
+![1](https://user-images.githubusercontent.com/126666369/229345394-026d8047-5cf8-4e70-81c0-69d2d0eb602c.jpg)
 
-![2](https://user-images.githubusercontent.com/126666369/224512075-5fa81558-8182-49ab-9e7f-38b6c754632b.jpg)
+![2](https://user-images.githubusercontent.com/126666369/229345397-03566e59-12ef-45c9-ab92-d0211dd18d67.jpg)
 
-![3](https://user-images.githubusercontent.com/126666369/224512089-2b73e62b-edd6-4600-a702-63fee65d7a9e.jpg)
+![3](https://user-images.githubusercontent.com/126666369/229345402-03cf0b68-a9a8-4da0-b73c-cda04d47e666.jpg)
 
-![4](https://user-images.githubusercontent.com/126666369/224512091-0792ef2b-3b10-493c-ba3d-9e96eea55734.jpg)
+![4](https://user-images.githubusercontent.com/126666369/229345407-c9e4299b-6d93-45b5-ac1c-fd75589ad0a9.jpg)
 
-![5](https://user-images.githubusercontent.com/126666369/224512093-9c584985-3bf9-4f5c-9c47-631a6ed09eef.jpg)
+![5](https://user-images.githubusercontent.com/126666369/229345411-98d19583-7c18-44ca-b314-65360d9704e4.jpg)
+
+![6](https://user-images.githubusercontent.com/126666369/229345418-cfe4fe9b-2fa5-402e-9be3-1abe0f852da6.jpg)
+
+![7](https://user-images.githubusercontent.com/126666369/229345425-ebd4173b-d9bb-4f63-b864-88fa8f498eed.jpg)
+
+![8](https://user-images.githubusercontent.com/126666369/229345431-e06711f4-602e-43ab-b445-1e0fbd30504b.jpg)
 
 - [Demo Project](https://melika-haqshenas-web.github.io/Building-Site/)
 
